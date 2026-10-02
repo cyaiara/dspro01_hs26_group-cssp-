@@ -12,18 +12,19 @@
 |--------|------------|
 | Student 1 | Susanne Pfenninger|
 | Student 2 | Chiara Steindl |
-| Student 3 |            |
 
 
 ### Project Name
-
 > ⚠️ **Deliverable - 15.10.2026:** Define a project name.
+>
+> **Feeding the AI Boom: Compute Growth vs. Resource Constraints**
+
 
 ### Pitch
-
 > ⚠️ **Deliverable - 15.10.2026:** Write a short pitch.
-
 *Write a 3 to 5 sentence pitch using [this](https://www.linkedin.com/posts/maabrahams_how-to-make-a-compelling-quick-pitch-activity-7179128237782970369-Qa6o/) as a guideline.*
+>
+> Feeding the AI Boom: Compute Growth vs. Resource Constraints explores the physical resources behind the rapid expansion of artificial intelligence. We investigate how growing AI compute capacity increases electricity demand while also driving demand for critical minerals used in chips and data-centre infrastructure. Using data on AI compute growth, energy consumption, and material requirements, we aim to identify where resource constraints could emerge. The project highlights the sustainability trade-off between accelerating AI development and the energy and mineral resources needed to support it.
 
 ---
 
