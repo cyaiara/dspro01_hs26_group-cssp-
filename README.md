@@ -10,8 +10,8 @@
 
 | Name | Major task |
 |--------|------------|
-| Student 1 |            |
-| Student 2 |            |
+| Student 1 | Susanne Pfenninger|
+| Student 2 | Chiara Steindl |
 | Student 3 |            |
 
 
